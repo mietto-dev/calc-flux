@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2017",
+    "strict": true,
+    "sourceMap": true,
+    "declaration": true,
+    "resolveJsonModule": true,
+    "outDir": "./dist"
+  },
+  "include": [
+    "src",
+    "lib",
+    "main.ts",
+    "lib/action.ts",
+    "lib/command.ts",
+    "lib/dispatcher.ts",
+    "lib/store.ts",
+    "lib/supported.ts"
+  ]
+}
