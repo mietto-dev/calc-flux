@@ -1,6 +1,10 @@
 # Calculator
 
 Yes, a simple calculator. Implements Flux + Command patterns to fulfill the
-operations.
+operations an render the results.
 
-Terminal interface.
+Terminal interface with [blessed](https://github.com/chjj/blessed).
+
+## Demo
+
+![Demo](ifless-calc.gif)
